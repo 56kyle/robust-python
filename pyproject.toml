@@ -1,6 +1,6 @@
 [project]
 name = "robust-python"
-version = "0.0.0"
+version = "0.0.1"
 description = "robust-python"
 authors = [
     { name = "Kyle Oliver", email = "56kyleoliver+robust-python@gmail.com" },
